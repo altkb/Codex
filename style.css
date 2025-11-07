@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(90deg, #4b3f72, #1e88e5);
+    background: #007aff;
     color: #fff;
     padding: 1rem 2rem;
 }
@@ -33,12 +33,12 @@ body {
 .hero {
     text-align: center;
     padding: 6rem 1rem;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    background: linear-gradient(135deg, #ff5f6d 0%, #ffc371 45%, #42a5f5 100%);
     color: #fff;
     transition: background 0.5s ease;
 }
 .hero:hover {
-    background: linear-gradient(135deg, #feb47b, #ff7e5f);
+    background: linear-gradient(135deg, #ff7eb3 0%, #ffd15c 45%, #66c3ff 100%);
 }
 
 .tagline {
